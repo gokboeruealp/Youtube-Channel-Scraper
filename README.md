@@ -8,7 +8,7 @@
 <p>To use this project, follow the steps below:</p>
 
 <ol>
-    <li>Install [Google Chrome](https://www.google.com/chrome/) on your computer.</li>
+    <li>Install Google Chrome on your computer.</li>
     <li>Download a C# development environment such as Visual Studio and open the project.</li>
     <li>In the `Program.cs` file, update the `imageAddr` variable with the URL of the image you want to use for speed measurement. Also, replace the `downloadSize` variable with the size of the image you want to use.</li>
     <li>Run the application, enter the URL of a YouTube channel, and follow the application's instructions to fetch video links.</li>
