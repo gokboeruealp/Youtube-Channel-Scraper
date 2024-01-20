@@ -1,7 +1,7 @@
 <body>
-<h1>Youtube Channel Catcher</h1>
+<h1>Youtube Channel Scraper</h1>
 
-<p><strong>Youtube Channel Catcher</strong> is a C# application that allows you to retrieve and view video links for a specific YouTube channel. The purpose of this project is to provide an automation tool for fetching titles and links to all videos of any YouTube channel.</p>
+<p><strong>Youtube Channel Scraper</strong> is a C# application that allows you to retrieve and view video links for a specific YouTube channel. The purpose of this project is to provide an automation tool for fetching titles and links to all videos of any YouTube channel.</p>
 
 <h2>Usage</h2>
 
